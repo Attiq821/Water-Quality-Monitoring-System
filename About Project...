@@ -1,0 +1,10 @@
+ABOUT THIS PROJECT
+We are showing how to use DS18B20 one wire water proof temperature sensor. With the help of DS18B20 one wire temperature sensor we can measure the temperature from -55℃ To 125℃ with accuracy of ±5 .
+
+Additional Library:
+
+One Wire Library
+https://github.com/PaulStoffregen/OneWire
+
+Dallas Temperature Sensor library
+https://github.com/milesburton/Arduino-Temperature-Control-Library
