@@ -1,3 +1,0 @@
-ABOUT THIS PROJECT
-We are showing how to use DHT11 humidity and Temperature sensor. With the help of DHT11 sensor, we can measure the temperature and humidity levels. Here we aquist data of sensors with the help of wemos 
-and then send data to cloud named as thingspeak where we are to analyze data any where from the world.
