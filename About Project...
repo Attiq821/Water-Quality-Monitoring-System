@@ -1,10 +1,7 @@
 ABOUT THIS PROJECT
-We are showing how to use DS18B20 one wire water proof temperature sensor. With the help of DS18B20 one wire temperature sensor we can measure the temperature from -55℃ To 125℃ with accuracy of ±5 .
+We are showing how to use DHT11 humidity and Temperature sensor. With the help of DHT11 sensor, we can measure the temperature and humidity levels. Here we aquist data of sensors with the help of wemos 
+and then send data to cloud named as thingspeak where we are to analyze data any where from the world.
 
-Additional Library:
 
-One Wire Library
-https://github.com/PaulStoffregen/OneWire
 
-Dallas Temperature Sensor library
-https://github.com/milesburton/Arduino-Temperature-Control-Library
+
